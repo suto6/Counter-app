@@ -1,0 +1,35 @@
+#countLable {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 7px;
+    border-width: 1px;
+    cursor: pointer;
+}
+
+#decreaseBtn {
+    background-color: rgb(199, 43, 43);
+    color: aliceblue;
+}
+
+#increaseBtn {
+    background-color: rgb(9, 155, 4);
+    color: aliceblue;
+}
+
+#resetBtn {
+    background-color: rgb(247, 242, 171);
+    color: black;
+}
